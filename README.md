@@ -26,7 +26,7 @@
 | --- | --- |
 | ![Tela de título](docs/img/titulo.gif) | ![Exploração com os parceiros](docs/img/campo.gif) |
 | **Tela de título** com três slots de save e o modo online. | **Exploração** com os parceiros seguindo o Tamer, minimapa e barra de atalhos. |
-| ![Os personagens chamam o jogador pelo nome](docs/img/fala.gif) | ![Batalha com os novos modelos e efeitos](docs/img/batalha.png) |
+| ![Os personagens chamam o jogador pelo nome](docs/img/fala.gif) | ![Batalha com os novos modelos e efeitos](docs/img/batalha.gif) |
 | **Seu nome na história:** os personagens chamam você pelo nome que você escolheu. | **Batalhas** com os novos modelos, animações e efeitos de técnica. |
 | ![Árvore de digivolução](docs/img/datas.gif) | ![Menu de pausa](docs/img/pausa.gif) |
 | **Árvore de digivolução** de cada parceiro, para planejar as próximas formas. | **Menu** renovado, com atributos, resistências, digivoluções e equipamentos. |
