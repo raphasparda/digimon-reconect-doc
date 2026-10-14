@@ -37,6 +37,7 @@
 - **Modelos 3D reformulados** para os Digimon, com animações novas e mais detalhadas.
 - **Efeitos de técnica novos**, com brilho, explosões e ondas de energia.
 - **Batalhas a 60 quadros por segundo**, bem mais fluidas que no original.
+- **Ciclo de dia e noite** nas áreas abertas: amanhecer, dia, entardecer e noite, com o relógio na tela. No online, todos os jogadores veem a mesma hora.
 - **Interface de batalha e menus modernos**, com o mapa e a exploração mantendo a cara do Digimon World 3.
 - Opção de **cel-shading** para quem prefere um visual de desenho animado.
 
