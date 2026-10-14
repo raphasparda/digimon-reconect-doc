@@ -55,6 +55,7 @@
 
 ### Mais conforto para jogar
 - **Três slots de save**, com resumo de cada um (lugar, parceiros, tempo de jogo).
+- **Salve quando quiser** pelo menu de pausa, e o jogo também salva sozinho depois de cada batalha.
 - **Minimapa** com o nome do lugar, no canto da tela.
 - **Barra de atalhos** no estilo de MMORPG para abrir itens, parceiros, técnicas, digivoluções, Datas, mapa e opções com uma tecla.
 - **Entrar nos lugares só de andar** até a saída, sem precisar apertar botão.
@@ -64,8 +65,10 @@
 - **Totalmente em português do Brasil**, com opção de inglês.
 
 ### O jogo original inteiro
-- A história do Digimon World 3 do começo ao fim, com os mapas, cidades, NPCs, lojas, pousadas, academias, o Digimon Lab e os leilões.
-- **Card Battle** completo, com todas as cartas, os decks dos oponentes e o editor de pastas.
+- A história do Digimon World 3 do começo ao fim, até o final e os créditos, com os mapas, cidades, NPCs, lojas, pousadas, o Digimon Lab e os leilões.
+- **Academias** com a animação de treino do original.
+- **Card Battle** completo e animado, com todas as cartas, os decks dos oponentes, o álbum de cartas e o editor de pastas.
+- **Apelidos** para os seus Digimon.
 
 ## Modelos reformulados
 
